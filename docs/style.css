@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 17, 184);
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+.container {
+    width: 48rem;
+
+    margin: 0 auto;
+}
